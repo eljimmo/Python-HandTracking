@@ -11,3 +11,7 @@ pip install mediapipe
 
 pip install opencv-python
 
+usage -___>>>> $ python ./filename.py
+
+if you are running in linux you'll need to give permissions first with $chmod +x filename.py
+
